@@ -1,5 +1,5 @@
 class Dog
-  something that barks
+  puts "something that barks"
 end
 
 fido = dog.new
